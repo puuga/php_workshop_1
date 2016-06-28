@@ -44,5 +44,6 @@
       echo "0 results";
   }
 
+  // TODO: close connection
   $conn->close();
 ?>
